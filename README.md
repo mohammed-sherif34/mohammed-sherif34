@@ -90,4 +90,4 @@ A feature-rich app for browsing the latest news. Highlights:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-sherif34&show_icons=true&locale=en" alt="mohammed-sherif34" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-sherif34&" alt="mohammed-sherif34" /></p>
+
