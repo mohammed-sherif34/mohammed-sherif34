@@ -41,6 +41,13 @@ An app designed to manage tasks efficiently with:
 - Firestore as a database  
 - Light/Dark themes and localization support  
 *Key Technologies*: Flutter, MVVM, Provider  
+### **[Islami App ](https://github.com/mohammed-sherif34/islami_app.git)**  
+An app designed to enrich your Islamic experience  
+
+- Flutter: Cross-platform app development.
+- Provider: State management for localization, theming, and other app states.
+- MVVM Architecture: Clean code separation for scalability and maintainability.
+- API Integration: To stream live Quran Radio.
 
 ### **[Bookly App](https://github.com/mohammed-sherif34/bookly-app.git)**  
 An intuitive app showcasing books on computer science and programming. Features include:  
