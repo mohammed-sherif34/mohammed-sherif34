@@ -1,5 +1,5 @@
 # Hello World! 🌍 I'm Mohamed Sherif 👋🏼  
-A **passionate Flutter Developer** from Alexandria, Egypt, with a strong foundation in software engineering. I specialize in building elegant, scalable, and user-friendly mobile applications. Let's bring ideas to life through code!  
+A **passionate Flutter Developer** from Alexandria, Egypt, with a strong foundation in software engineering. I specialize in building elegant, scalable, and user-friendly mobile applications, that deliver exceptional user experiences. With a strong foundation in Dart and Flutter, I bring innovative solutions to life, leveraging modern technologies and best practices. 
 
 ---
 ![images](https://github.com/user-attachments/assets/f1698c2c-adf8-406f-b9ad-8b0c0061ffb5)
