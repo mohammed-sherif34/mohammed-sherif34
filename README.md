@@ -1,5 +1,5 @@
 # Hello World! 🌍 I'm Mohamed Sherif 👋🏼  
-A **passionate Flutter Developer** from Alexandria, Egypt, with a strong foundation in software engineering. I specialize in building elegant, scalable, and user-friendly mobile applications, that deliver exceptional user experiences. With a strong foundation in Dart and Flutter, I bring innovative solutions to life, leveraging modern technologies and best practices. 
+A **passionate Flutter Developer**  with a Bachelor’s degree in Computer Science, proficient in Dart, Flutter, and modern development practices like Clean Architecture, MVVM, and state management (Bloc, Provider). Experienced in building user-friendly mobile applications, including e-commerce, task management, and lifestyle apps, with expertise in API integration, Firebase, and local databases (Hive). Committed to delivering high-quality, scalable solutions and eager to contribute to innovative projects.management, and lifestyle apps, with expertise in API integration, Firebase, and local databases (Hive). Committed to delivering high-quality, scalable solutions and eager to contribute to innovative projects.
 
 ---
 ![images](https://github.com/user-attachments/assets/f1698c2c-adf8-406f-b9ad-8b0c0061ffb5)
